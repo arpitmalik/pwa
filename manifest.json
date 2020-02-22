@@ -5,8 +5,8 @@
   "background_color": "#2196f3",
   "display": "standalone",
   "orientation": "portrait",
-  "Scope": "/",
-  "start_url": "/",
+  "Scope": "https://arpitmalik.github.io/pwa/",
+  "start_url": "https://arpitmalik.github.io/pwa/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
